@@ -48,8 +48,5 @@ Data sorteras och skrivs ut som kort.
 Status uppdateras (antal träffar, fel etc).
 
 
-Krav & beroenden
-Ren JavaScript (ingen extern ramverk behövs).
-Webbläsare som stödjer fetch och async/await.
-Internetanslutning (för att nå TheMealDB API).
+
 
