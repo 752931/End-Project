@@ -8,7 +8,7 @@ Visar maträtter dynamiskt som kort med bild, namn, kategori och ursprungsland.
 
 Användaren kan:
 Söka på maträttens namn.
-Välja en kategori (ex. “Seafood”, “Dessert”).
+Välja en kategori (ex. “Seafood”, “Dessert”)
 Kombinera sökning och kategori.
 Rensa sökningen med en knapp.
 Resultaten sorteras automatiskt i alfabetisk ordning (A–Z).
